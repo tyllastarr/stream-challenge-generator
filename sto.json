@@ -1,0 +1,18 @@
+{
+  "genders": ["Male", "Female"],
+  "factions": ["Dominion"],
+  "allegiances": ["Starfleet", "the Klingons"],
+  "races": [
+    {
+      "faction": "Dominion",
+      "races": ["Jem'Hadar"]
+    }
+  ],
+  "classes": ["Tactical", "Science", "Engineering"],
+  "ships": [
+    {
+      "faction": "Dominion",
+      "ships": ["Escort"]
+    }
+  ]
+}
