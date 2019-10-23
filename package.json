@@ -1,0 +1,22 @@
+{
+  "name": "stream-challenge-generator",
+  "version": "1.0.0",
+  "description": "Generator for random situations for my streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyllastarr/stream-challenge-generator.git"
+  },
+  "author": "Tyll'a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyllastarr/stream-challenge-generator/issues"
+  },
+  "homepage": "https://github.com/tyllastarr/stream-challenge-generator#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
